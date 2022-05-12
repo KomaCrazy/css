@@ -1,0 +1,21 @@
+*{
+    font-family: Verdana;
+    box-sizing:border-box;
+    padding: 0;
+}
+.topic{
+    font-size:48px;
+}
+.small{
+    font-size: 24px;
+}
+.price-header{
+    font-size :18px;
+    border-radius:40px;
+    background-color: floralwhite;
+    padding: 45px 30px;
+    margin-bottom: 30px;
+    align-items: center;
+    -webkit-box-align: center;
+    display: flex;
+}
