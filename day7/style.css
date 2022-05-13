@@ -1,0 +1,12 @@
+h1 {
+    font-family: Verdana;
+    margin: auto;
+    width: 10%;
+}
+
+button{
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
