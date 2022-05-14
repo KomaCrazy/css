@@ -13,5 +13,9 @@
     font-size: 28px;
 }
 .occupation{
-    font-size: ;
+    font-size: 18;
+}
+.columes{
+    column-count: 3;
+    column-rule: 2px solid #ddd;
 }
