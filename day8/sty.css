@@ -6,5 +6,12 @@
 
 .topic
 {
-    font-size: 24px;
+    font-size: 38px;
+    font-weight: 520;
+}
+.name{
+    font-size: 28px;
+}
+.occupation{
+    font-size: ;
 }
